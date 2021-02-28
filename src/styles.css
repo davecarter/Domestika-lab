@@ -1,0 +1,23 @@
+.BtcPrice {
+  padding-top: 5em;
+  text-align: center;
+}
+
+.BtcPrice-value {
+  margin-top: 8px;
+  font-size: 4em;
+}
+
+.BtcPrice-logo {
+  height: auto;
+  max-width: 100px;
+}
+
+.BtcPrice-subHeading {
+  margin-bottom: 0;
+}
+
+html {
+  background-color: orange;
+  font-family: "Roboto", sans-serif;
+}
